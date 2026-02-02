@@ -436,7 +436,7 @@ export default function TermsOfServicePage() {
               <div className="mt-4 rounded-lg border border-neutral-200 bg-neutral-50 p-6">
                 <p className="text-neutral-700">
                   <strong>QualityX Services</strong><br />
-                  Email: contact@qualityx.com<br />
+                  Email: sreehari_vaka@qualityxservices.com<br />
                   <br />
                   For legal inquiries, please include &quot;Legal Inquiry&quot; in the subject line.
                 </p>

@@ -112,7 +112,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-neutral-900">Email</h3>
                     <p className="mt-1 text-sm text-neutral-600">
-                      contact@qualityx.com
+                      sreehari_vaka@qualityxservices.com
                     </p>
                   </div>
                 </div>
@@ -517,7 +517,7 @@ export default function ContactPage() {
                     Connect on WhatsApp
                   </a>
                   <a
-                    href="mailto:contact@qualityx.com"
+                    href="mailto:sreehari_vaka@qualityxservices.com"
                     className="inline-flex items-center gap-2 rounded-lg border-2 border-primary-600 px-6 py-3 text-sm font-semibold text-primary-600 transition-all hover:bg-primary-50"
                   >
                     <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
