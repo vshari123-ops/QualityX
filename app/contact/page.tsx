@@ -481,8 +481,8 @@ export default function ContactPage() {
               <div className="md:col-span-1">
                 <div className="relative aspect-square overflow-hidden rounded-lg">
                   <img
-                    src="/founder.png"
-                    alt="Vaka Sreehari Prasad - Founder & CEO"
+                    src="/vaka_pro.png"
+                    alt="Sreehari Prasad Vaka - Founder & CEO"
                     className="h-full w-full object-cover"
                   />
                 </div>
@@ -491,7 +491,7 @@ export default function ContactPage() {
               {/* Founder Info */}
               <div className="md:col-span-2 flex flex-col justify-center">
                 <h3 className="text-3xl font-bold text-neutral-900">
-                  Vaka Sreehari Prasad
+                  Sreehari Prasad Vaka
                 </h3>
                 <p className="mt-2 text-lg font-medium text-primary-600">
                   Founder & CEO

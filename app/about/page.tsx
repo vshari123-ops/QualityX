@@ -148,10 +148,14 @@ export default function AboutPage() {
         <div className="mx-auto max-w-2xl">
           <Card className="overflow-hidden">
             <div className="bg-gradient-to-br from-primary-600 via-blue-600 to-primary-800 p-8 text-center text-white">
-              <div className="mx-auto mb-4 flex h-24 w-24 items-center justify-center rounded-full bg-white/10 text-sm font-medium">
-                Coming Soon
+              <div className="mx-auto mb-4 h-32 w-32 overflow-hidden rounded-full border-4 border-white/20">
+                <img
+                  src="/vaka_headshot.png"
+                  alt="Sreehari Prasad Vaka - Founder & CEO"
+                  className="h-full w-full object-contain"
+                />
               </div>
-              <h3 className="text-2xl font-bold">Vaka Sreehari Prasad</h3>
+              <h3 className="text-2xl font-bold">Sreehari Prasad Vaka</h3>
               <p className="mt-1 text-primary-200">Founder & CEO</p>
             </div>
             <div className="p-8">
